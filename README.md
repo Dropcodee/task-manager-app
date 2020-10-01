@@ -16,3 +16,6 @@ A simple task manager built in Adonisjs 5 &amp; Vuejs
 5. ```node ace serve --watch```
 
 - that should start your server and keep your backend running
+- incase you have any issues you can contact me on Twitter & IG
+- [Hit me up on Twitter](https://twitter.com/DTuts)
+- [Hit me up on Instagram](https://www.instagram.com/dropcode__/)
